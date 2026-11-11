@@ -7,4 +7,3 @@ Our Modelling Software is a Python package that provides a set of tools for simu
 ### Factors we considered in designing the software:
 1. **User-friendly interface**: We wanted to make the software as easy to use as possible, so we designed a simple and intuitive interface that allows users to easily set up and run simulations.
 2. **Flexibility**: We wanted the software to be flexible enough to handle a wide range of evolutionary processes, so we designed it to be easily extensible.
-3. 
